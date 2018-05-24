@@ -13,10 +13,10 @@ You should implement the following methods:
 <div>set(int index, Object obj)</div>
 <div>get(int index)</div>
 
-// C++ example (not really std::vector naming,
+</div>// C++ example (not really std::vector naming,
 // but trying to express desired semantics
 // you can use names from Java-example or whatever you like)
-
+</div>
 <div>push_back(const T&)</div>
 <div>insert(int index, const T&)</div>
 <div>remove(int index)</div>
